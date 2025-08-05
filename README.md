@@ -35,3 +35,9 @@ This project can help you practice:
 
 Rishav Kumar  
 © 2025. All rights reserved.
+## ⚠️ Usage Disclaimer
+
+This project and its datasets are intended strictly for personal academic use.  
+Unauthorized reuse, redistribution, or reproduction is prohibited.  
+Please refer to the [LICENSE](./Licence.txt) and [NOTICE](./Notice.txt) files for more details.
+
