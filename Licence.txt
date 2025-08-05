@@ -1,0 +1,19 @@
+Copyright © 2025 Rishav Kumar
+All rights reserved.
+
+Redistribution, modification, use, or publication of this software or any part of this repository is strictly prohibited without the express written permission of the author.
+
+Permission is granted to view and refer to the materials solely for personal educational purposes.
+You may not:
+
+Copy, distribute, or publish this code or content.
+
+Use the data or project materials in commercial or academic submissions.
+
+Upload this content elsewhere or claim authorship.
+
+For permission, collaboration, or inquiries, contact:
+Rishav Kumar
+Email: rishavkuamrseth2507@gmail.com
+
+This license ensures your work is protected from unauthorized reuse.

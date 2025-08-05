@@ -1,0 +1,7 @@
+Copyright © 2025 Rishav Kumar
+
+This project and its datasets are provided for academic and portfolio use only.
+
+⚠ Unauthorized reproduction, redistribution, or reuse of this content in any form without written permission is prohibited.
+
+If you'd like to use this dataset or structure for your own portfolio, credit must be clearly given with a link to the original repository or author.
