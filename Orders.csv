@@ -1,0 +1,265 @@
+Order_ID,Customer_ID,Order_Date,Total_Amount,Payment_Method,Shipping_City,Order_Status
+1001,1,2023-05-15 09:23:45,24999.00,UPI,Mumbai,Delivered
+1002,2,2023-05-16 14:12:33,32999.00,Card,Delhi,Shipped
+1003,3,2023-05-17 11:45:21,1299.00,Net Banking,Bangalore,Delivered
+1004,4,2023-05-18 16:30:10,799.00,UPI,Hyderabad,Processing
+1005,5,2023-05-19 13:15:33,2999.00,Card,Chennai,Shipped
+1006,6,2023-05-20 10:45:22,3499.00,UPI,Pune,Delivered
+1007,7,2023-05-21 17:20:15,2199.00,Card,Kolkata,Processing
+1008,8,2023-05-22 12:10:40,399.00,UPI,Ahmedabad,Shipped
+1009,9,2023-05-23 15:45:30,1299.00,Net Banking,Jaipur,Delivered
+1010,10,2023-05-24 11:30:25,299.00,UPI,Lucknow,Processing
+1011,11,2023-05-25 10:15:18,18999.00,UPI,Mumbai,Shipped
+1012,12,2023-05-26 14:30:45,18990.00,Card,Delhi,Delivered
+1013,13,2023-05-27 16:45:12,3499.00,Net Banking,Bangalore,Processing
+1014,14,2023-05-28 11:20:33,499.00,UPI,Hyderabad,Shipped
+1015,15,2023-05-29 09:10:28,1299.00,Card,Chennai,Delivered
+1016,16,2023-05-30 14:25:19,4999.00,UPI,Pune,Shipped
+1017,17,2023-05-31 17:50:42,1599.00,Net Banking,Kolkata,Processing
+1018,18,2023-06-01 12:15:37,1799.00,Card,Ahmedabad,Delivered
+1019,19,2023-06-02 15:40:55,998.00,UPI,Jaipur,Shipped
+1020,20,2023-06-03 11:05:29,42999.00,Net Banking,Lucknow,Processing
+1021,21,2023-06-04 10:30:18,23999.00,UPI,Mumbai,Delivered
+1022,22,2023-06-05 14:55:42,54990.00,Card,Delhi,Shipped
+1023,23,2023-06-06 17:20:15,999.00,Net Banking,Bangalore,Processing
+1024,24,2023-06-07 12:45:39,1499.00,UPI,Hyderabad,Delivered
+1025,25,2023-06-08 09:10:22,199.00,Card,Chennai,Shipped
+1026,26,2023-06-09 14:35:47,2499.00,UPI,Pune,Processing
+1027,27,2023-06-10 17:00:32,1499.00,Net Banking,Kolkata,Delivered
+1028,28,2023-06-11 12:25:19,3999.00,Card,Ahmedabad,Shipped
+1029,29,2023-06-12 15:50:44,899.00,UPI,Jaipur,Processing
+1030,30,2023-06-13 11:15:27,1599.00,Net Banking,Lucknow,Delivered
+1031,31,2023-06-14 10:40:16,17999.00,UPI,Mumbai,Shipped
+1032,32,2023-06-15 14:05:41,14990.00,Card,Delhi,Processing
+1033,33,2023-06-16 17:30:24,4999.00,Net Banking,Bangalore,Delivered
+1034,34,2023-06-17 12:55:38,899.00,UPI,Hyderabad,Shipped
+1035,35,2023-06-18 09:20:21,999.00,Card,Chennai,Processing
+1036,36,2023-06-19 14:45:46,2199.00,UPI,Pune,Delivered
+1037,37,2023-06-20 17:10:33,6999.00,Net Banking,Kolkata,Shipped
+1038,38,2023-06-21 12:35:18,4499.00,Card,Ahmedabad,Processing
+1039,39,2023-06-22 16:00:43,299.00,UPI,Jaipur,Delivered
+1040,40,2023-06-23 11:25:26,29999.00,Net Banking,Lucknow,Shipped
+1041,41,2023-06-24 10:50:15,8990.00,UPI,Mumbai,Processing
+1042,42,2023-06-25 14:15:40,1599.00,Card,Delhi,Delivered
+1043,43,2023-06-26 17:40:23,199.00,Net Banking,Bangalore,Shipped
+1044,44,2023-06-27 13:05:38,2499.00,UPI,Hyderabad,Processing
+1045,45,2023-06-28 09:30:21,1499.00,Card,Chennai,Delivered
+1046,46,2023-06-29 14:55:46,3999.00,UPI,Pune,Shipped
+1047,47,2023-06-30 17:20:33,899.00,Net Banking,Kolkata,Processing
+1048,48,2023-07-01 12:45:18,1599.00,Card,Ahmedabad,Delivered
+1049,49,2023-07-02 16:10:43,1799.00,UPI,Jaipur,Shipped
+1050,50,2023-07-03 11:35:26,4999.00,Net Banking,Lucknow,Processing
+1051,51,2023-07-04 10:00:15,1299.00,UPI,Mumbai,Delivered
+1052,52,2023-07-05 14:25:40,5999.00,Card,Delhi,Shipped
+1053,53,2023-07-06 17:50:23,399.00,Net Banking,Bangalore,Processing
+1054,54,2023-07-07 13:15:38,2999.00,UPI,Hyderabad,Delivered
+1055,55,2023-07-08 09:40:21,4999.00,Card,Chennai,Shipped
+1056,56,2023-07-09 15:05:46,1299.00,UPI,Pune,Processing
+1057,57,2023-07-10 17:30:33,5999.00,Net Banking,Kolkata,Delivered
+1058,58,2023-07-11 12:55:18,1999.00,Card,Ahmedabad,Shipped
+1059,59,2023-07-12 16:20:43,1299.00,UPI,Jaipur,Processing
+1060,60,2023-07-13 11:45:26,21999.00,Net Banking,Lucknow,Delivered
+1061,61,2023-07-14 10:10:15,17990.00,UPI,Mumbai,Shipped
+1062,62,2023-07-15 14:35:40,1199.00,Card,Delhi,Processing
+1063,63,2023-07-16 17:00:23,349.00,Net Banking,Bangalore,Delivered
+1064,64,2023-07-17 12:25:38,2499.00,UPI,Hyderabad,Shipped
+1065,65,2023-07-18 08:50:21,1299.00,Card,Chennai,Processing
+1066,66,2023-07-19 14:15:46,3999.00,UPI,Pune,Delivered
+1067,67,2023-07-20 16:40:33,899.00,Net Banking,Kolkata,Shipped
+1068,68,2023-07-21 12:05:18,1599.00,Card,Ahmedabad,Processing
+1069,69,2023-07-22 15:30:43,1799.00,UPI,Jaipur,Delivered
+1070,70,2023-07-23 10:55:26,16999.00,Net Banking,Lucknow,Shipped
+1071,71,2023-07-24 09:20:15,8999.00,UPI,Mumbai,Processing
+1072,72,2023-07-25 13:45:40,899.00,Card,Delhi,Delivered
+1073,73,2023-07-26 17:10:23,149.00,Net Banking,Bangalore,Shipped
+1074,74,2023-07-27 12:35:38,1199.00,UPI,Hyderabad,Processing
+1075,75,2023-07-28 09:00:21,399.00,Card,Chennai,Delivered
+1076,76,2023-07-29 14:25:46,1999.00,UPI,Pune,Shipped
+1077,77,2023-07-30 16:50:33,2999.00,Net Banking,Kolkata,Processing
+1078,78,2023-07-31 12:15:18,399.00,Card,Ahmedabad,Delivered
+1079,79,2023-08-01 15:40:43,249.00,UPI,Jaipur,Shipped
+1080,80,2023-08-02 11:05:26,13999.00,Net Banking,Lucknow,Processing
+1081,81,2023-08-03 09:30:15,999.00,UPI,Mumbai,Delivered
+1082,82,2023-08-04 13:55:40,1299.00,Card,Delhi,Shipped
+1083,83,2023-08-05 17:20:23,399.00,Net Banking,Bangalore,Processing
+1084,84,2023-08-06 12:45:38,1099.00,UPI,Hyderabad,Delivered
+1085,85,2023-08-07 09:10:21,499.00,Card,Chennai,Shipped
+1086,86,2023-08-08 14:35:46,1499.00,UPI,Pune,Processing
+1087,87,2023-08-09 17:00:33,399.00,Net Banking,Kolkata,Delivered
+1088,88,2023-08-10 12:25:18,1499.00,Card,Ahmedabad,Shipped
+1089,89,2023-08-11 15:50:43,1299.00,UPI,Jaipur,Processing
+1090,90,2023-08-12 11:15:26,12999.00,Net Banking,Lucknow,Delivered
+1091,91,2023-08-13 09:40:15,1799.00,UPI,Mumbai,Shipped
+1092,92,2023-08-14 14:05:40,999.00,Card,Delhi,Processing
+1093,93,2023-08-15 17:30:23,249.00,Net Banking,Bangalore,Delivered
+1094,94,2023-08-16 12:55:38,3999.00,UPI,Hyderabad,Shipped
+1095,95,2023-08-17 09:20:21,1299.00,Card,Chennai,Processing
+1096,96,2023-08-18 14:45:46,1299.00,UPI,Pune,Delivered
+1097,97,2023-08-19 17:10:33,799.00,Net Banking,Kolkata,Shipped
+1098,98,2023-08-20 12:35:18,1399.00,Card,Ahmedabad,Processing
+1099,99,2023-08-21 16:00:43,49.00,UPI,Jaipur,Delivered
+1100,100,2023-08-22 11:25:26,32999.00,Net Banking,Lucknow,Shipped
+1101,1,2023-08-23 09:50:15,1299.00,UPI,Mumbai,Processing
+1102,2,2023-08-24 14:15:40,499.00,Card,Delhi,Delivered
+1103,3,2023-08-25 17:40:23,2199.00,Net Banking,Bangalore,Shipped
+1104,4,2023-08-26 13:05:38,399.00,UPI,Hyderabad,Processing
+1105,5,2023-08-27 09:30:21,1799.00,Card,Chennai,Delivered
+1106,6,2023-08-28 14:55:46,2999.00,UPI,Pune,Shipped
+1107,7,2023-08-29 17:20:33,899.00,Net Banking,Kolkata,Processing
+1108,8,2023-08-30 12:45:18,1599.00,Card,Ahmedabad,Delivered
+1109,9,2023-08-31 16:10:43,249.00,UPI,Jaipur,Shipped
+1110,10,2023-09-01 11:35:26,13999.00,Net Banking,Lucknow,Processing
+1111,11,2023-09-02 10:00:15,999.00,UPI,Mumbai,Delivered
+1112,12,2023-09-03 14:25:40,1299.00,Card,Delhi,Shipped
+1113,13,2023-09-04 17:50:23,399.00,Net Banking,Bangalore,Processing
+1114,14,2023-09-05 13:15:38,1099.00,UPI,Hyderabad,Delivered
+1115,15,2023-09-06 09:40:21,499.00,Card,Chennai,Shipped
+1116,16,2023-09-07 15:05:46,1499.00,UPI,Pune,Processing
+1117,17,2023-09-08 17:30:33,399.00,Net Banking,Kolkata,Delivered
+1118,18,2023-09-09 12:55:18,1499.00,Card,Ahmedabad,Shipped
+1119,19,2023-09-10 16:20:43,1299.00,UPI,Jaipur,Processing
+1120,20,2023-09-11 11:45:26,12999.00,Net Banking,Lucknow,Delivered
+1121,21,2023-09-12 10:10:15,1799.00,UPI,Mumbai,Shipped
+1122,22,2023-09-13 14:35:40,999.00,Card,Delhi,Processing
+1123,23,2023-09-14 17:00:23,249.00,Net Banking,Bangalore,Delivered
+1124,24,2023-09-15 12:25:38,3999.00,UPI,Hyderabad,Shipped
+1125,25,2023-09-16 09:50:21,1299.00,Card,Chennai,Processing
+1126,26,2023-09-17 15:15:46,1299.00,UPI,Pune,Delivered
+1127,27,2023-09-18 17:40:33,799.00,Net Banking,Kolkata,Shipped
+1128,28,2023-09-19 13:05:18,1399.00,Card,Ahmedabad,Processing
+1129,29,2023-09-20 16:30:43,49.00,UPI,Jaipur,Delivered
+1130,30,2023-09-21 11:55:26,32999.00,Net Banking,Lucknow,Shipped
+1131,31,2023-09-22 10:20:15,1299.00,UPI,Mumbai,Processing
+1132,32,2023-09-23 14:45:40,499.00,Card,Delhi,Delivered
+1133,33,2023-09-24 17:10:23,2199.00,Net Banking,Bangalore,Shipped
+1134,34,2023-09-25 12:35:38,399.00,UPI,Hyderabad,Processing
+1135,35,2023-09-26 09:00:21,1799.00,Card,Chennai,Delivered
+1136,36,2023-09-27 15:25:46,2999.00,UPI,Pune,Shipped
+1137,37,2023-09-28 17:50:33,899.00,Net Banking,Kolkata,Processing
+1138,38,2023-09-29 13:15:18,1599.00,Card,Ahmedabad,Delivered
+1139,39,2023-09-30 16:40:43,249.00,UPI,Jaipur,Shipped
+1140,40,2023-10-01 12:05:26,13999.00,Net Banking,Lucknow,Processing
+1141,41,2023-10-02 10:30:15,999.00,UPI,Mumbai,Delivered
+1142,42,2023-10-03 14:55:40,1299.00,Card,Delhi,Shipped
+1143,43,2023-10-04 17:20:23,399.00,Net Banking,Bangalore,Processing
+1144,44,2023-10-05 12:45:38,1099.00,UPI,Hyderabad,Delivered
+1145,45,2023-10-06 09:10:21,499.00,Card,Chennai,Shipped
+1146,46,2023-10-07 15:35:46,1499.00,UPI,Pune,Processing
+1147,47,2023-10-08 17:00:33,399.00,Net Banking,Kolkata,Delivered
+1148,48,2023-10-09 13:25:18,1499.00,Card,Ahmedabad,Shipped
+1149,49,2023-10-10 16:50:43,1299.00,UPI,Jaipur,Processing
+1150,50,2023-10-11 12:15:26,12999.00,Net Banking,Lucknow,Delivered
+1151,51,2023-10-12 10:40:15,1799.00,UPI,Mumbai,Shipped
+1152,52,2023-10-13 15:05:40,999.00,Card,Delhi,Processing
+1153,53,2023-10-14 17:30:23,249.00,Net Banking,Bangalore,Delivered
+1154,54,2023-10-15 13:55:38,3999.00,UPI,Hyderabad,Shipped
+1155,55,2023-10-16 10:20:21,1299.00,Card,Chennai,Processing
+1156,56,2023-10-17 15:45:46,1299.00,UPI,Pune,Delivered
+1157,57,2023-10-18 18:10:33,799.00,Net Banking,Kolkata,Shipped
+1158,58,2023-10-19 13:35:18,1399.00,Card,Ahmedabad,Processing
+1159,59,2023-10-20 17:00:43,49.00,UPI,Jaipur,Delivered
+1160,60,2023-10-21 12:25:26,32999.00,Net Banking,Lucknow,Shipped
+1161,61,2023-10-22 10:50:15,1299.00,UPI,Mumbai,Processing
+1162,62,2023-10-23 15:15:40,499.00,Card,Delhi,Delivered
+1163,63,2023-10-24 17:40:23,2199.00,Net Banking,Bangalore,Shipped
+1164,64,2023-10-25 13:05:38,399.00,UPI,Hyderabad,Processing
+1165,65,2023-10-26 09:30:21,1799.00,Card,Chennai,Delivered
+1166,66,2023-10-27 15:55:46,2999.00,UPI,Pune,Shipped
+1167,67,2023-10-28 18:20:33,899.00,Net Banking,Kolkata,Processing
+1168,68,2023-10-29 13:45:18,1599.00,Card,Ahmedabad,Delivered
+1169,69,2023-10-30 17:10:43,249.00,UPI,Jaipur,Shipped
+1170,70,2023-10-31 12:35:26,13999.00,Net Banking,Lucknow,Processing
+1171,71,2023-11-01 11:00:15,999.00,UPI,Mumbai,Delivered
+1172,72,2023-11-02 15:25:40,1299.00,Card,Delhi,Shipped
+1173,73,2023-11-03 17:50:23,399.00,Net Banking,Bangalore,Processing
+1174,74,2023-11-04 13:15:38,1099.00,UPI,Hyderabad,Delivered
+1175,75,2023-11-05 09:40:21,499.00,Card,Chennai,Shipped
+1176,76,2023-11-06 15:05:46,1499.00,UPI,Pune,Processing
+1177,77,2023-11-07 18:30:33,399.00,Net Banking,Kolkata,Delivered
+1178,78,2023-11-08 13:55:18,1499.00,Card,Ahmedabad,Shipped
+1179,79,2023-11-09 17:20:43,1299.00,UPI,Jaipur,Processing
+1180,80,2023-11-10 12:45:26,12999.00,Net Banking,Lucknow,Delivered
+1181,81,2023-11-11 11:10:15,1799.00,UPI,Mumbai,Shipped
+1182,82,2023-11-12 15:35:40,999.00,Card,Delhi,Processing
+1183,83,2023-11-13 18:00:23,249.00,Net Banking,Bangalore,Delivered
+1184,84,2023-11-14 13:25:38,3999.00,UPI,Hyderabad,Shipped
+1185,85,2023-11-15 09:50:21,1299.00,Card,Chennai,Processing
+1186,86,2023-11-16 15:15:46,1299.00,UPI,Pune,Delivered
+1187,87,2023-11-17 18:40:33,799.00,Net Banking,Kolkata,Shipped
+1188,88,2023-11-18 14:05:18,1399.00,Card,Ahmedabad,Processing
+1189,89,2023-11-19 17:30:43,49.00,UPI,Jaipur,Delivered
+1190,90,2023-11-20 12:55:26,32999.00,Net Banking,Lucknow,Shipped
+1191,91,2023-11-21 11:20:15,1299.00,UPI,Mumbai,Processing
+1192,92,2023-11-22 15:45:40,499.00,Card,Delhi,Delivered
+1193,93,2023-11-23 18:10:23,2199.00,Net Banking,Bangalore,Shipped
+1194,94,2023-11-24 13:35:38,399.00,UPI,Hyderabad,Processing
+1195,95,2023-11-25 10:00:21,1799.00,Card,Chennai,Delivered
+1196,96,2023-11-26 15:25:46,2999.00,UPI,Pune,Shipped
+1197,97,2023-11-27 18:50:33,899.00,Net Banking,Kolkata,Processing
+1198,98,2023-11-28 14:15:18,1599.00,Card,Ahmedabad,Delivered
+1199,99,2023-11-29 17:40:43,249.00,UPI,Jaipur,Shipped
+1200,100,2023-11-30 13:05:26,13999.00,Net Banking,Lucknow,Processing
+1201,1,2023-12-01 11:30:15,999.00,UPI,Mumbai,Delivered
+1202,2,2023-12-02 15:55:40,1299.00,Card,Delhi,Shipped
+1203,3,2023-12-03 18:20:23,399.00,Net Banking,Bangalore,Processing
+1204,4,2023-12-04 13:45:38,1099.00,UPI,Hyderabad,Delivered
+1205,5,2023-12-05 10:10:21,499.00,Card,Chennai,Shipped
+1206,6,2023-12-06 15:35:46,1499.00,UPI,Pune,Processing
+1207,7,2023-12-07 18:00:33,399.00,Net Banking,Kolkata,Delivered
+1208,8,2023-12-08 14:25:18,1499.00,Card,Ahmedabad,Shipped
+1209,9,2023-12-09 17:50:43,1299.00,UPI,Jaipur,Processing
+1210,10,2023-12-10 13:15:26,12999.00,Net Banking,Lucknow,Delivered
+1211,11,2023-12-11 11:40:15,1799.00,UPI,Mumbai,Shipped
+1212,12,2023-12-12 16:05:40,999.00,Card,Delhi,Processing
+1213,13,2023-12-13 18:30:23,249.00,Net Banking,Bangalore,Delivered
+1214,14,2023-12-14 14:55:38,3999.00,UPI,Hyderabad,Shipped
+1215,15,2023-12-15 11:20:21,1299.00,Card,Chennai,Processing
+1216,16,2023-12-16 16:45:46,1299.00,UPI,Pune,Delivered
+1217,17,2023-12-17 19:10:33,799.00,Net Banking,Kolkata,Shipped
+1218,18,2023-12-18 14:35:18,1399.00,Card,Ahmedabad,Processing
+1219,19,2023-12-19 18:00:43,49.00,UPI,Jaipur,Delivered
+1220,20,2023-12-20 13:25:26,32999.00,Net Banking,Lucknow,Shipped
+1221,21,2023-12-21 11:50:15,1299.00,UPI,Mumbai,Processing
+1222,22,2023-12-22 16:15:40,499.00,Card,Delhi,Delivered
+1223,23,2023-12-23 18:40:23,2199.00,Net Banking,Bangalore,Shipped
+1224,24,2023-12-24 14:05:38,399.00,UPI,Hyderabad,Processing
+1225,25,2023-12-25 10:30:21,1799.00,Card,Chennai,Delivered
+1226,26,2023-12-26 15:55:46,2999.00,UPI,Pune,Shipped
+1227,27,2023-12-27 19:20:33,899.00,Net Banking,Kolkata,Processing
+1228,28,2023-12-28 14:45:18,1599.00,Card,Ahmedabad,Delivered
+1229,29,2023-12-29 18:10:43,249.00,UPI,Jaipur,Shipped
+1230,30,2023-12-30 13:35:26,13999.00,Net Banking,Lucknow,Processing
+1231,31,2023-12-31 12:00:15,999.00,UPI,Mumbai,Delivered
+1232,32,2024-01-01 16:25:40,1299.00,Card,Delhi,Shipped
+1233,33,2024-01-02 18:50:23,399.00,Net Banking,Bangalore,Processing
+1234,34,2024-01-03 14:15:38,1099.00,UPI,Hyderabad,Delivered
+1235,35,2024-01-04 10:40:21,499.00,Card,Chennai,Shipped
+1236,36,2024-01-05 16:05:46,1499.00,UPI,Pune,Processing
+1237,37,2024-01-06 19:30:33,399.00,Net Banking,Kolkata,Delivered
+1238,38,2024-01-07 14:55:18,1499.00,Card,Ahmedabad,Shipped
+1239,39,2024-01-08 18:20:43,1299.00,UPI,Jaipur,Processing
+1240,40,2024-01-09 13:45:26,12999.00,Net Banking,Lucknow,Delivered
+1241,41,2024-01-10 12:10:15,1799.00,UPI,Mumbai,Shipped
+1242,42,2024-01-11 16:35:40,999.00,Card,Delhi,Processing
+1243,43,2024-01-12 19:00:23,249.00,Net Banking,Bangalore,Delivered
+1244,44,2024-01-13 14:25:38,3999.00,UPI,Hyderabad,Shipped
+1245,45,2024-01-14 10:50:21,1299.00,Card,Chennai,Processing
+1246,46,2024-01-15 16:15:46,1299.00,UPI,Pune,Delivered
+1247,47,2024-01-16 19:40:33,799.00,Net Banking,Kolkata,Shipped
+1248,48,2024-01-17 15:05:18,1399.00,Card,Ahmedabad,Processing
+1249,49,2024-01-18 18:30:43,49.00,UPI,Jaipur,Delivered
+1250,50,2024-01-19 13:55:26,32999.00,Net Banking,Lucknow,Shipped
+1251,51,2024-01-20 12:20:15,1299.00,UPI,Mumbai,Processing
+1252,52,2024-01-21 16:45:40,499.00,Card,Delhi,Delivered
+1253,53,2024-01-22 19:10:23,2199.00,Net Banking,Bangalore,Shipped
+1254,54,2024-01-23 14:35:38,399.00,UPI,Hyderabad,Processing
+1255,55,2024-01-24 11:00:21,1799.00,Card,Chennai,Delivered
+1256,56,2024-01-25 16:25:46,2999.00,UPI,Pune,Shipped
+1257,57,2024-01-26 19:50:33,899.00,Net Banking,Kolkata,Processing
+1258,58,2024-01-27 15:15:18,1599.00,Card,Ahmedabad,Delivered
+1259,59,2024-01-28 18:40:43,249.00,UPI,Jaipur,Shipped
+1260,60,2024-01-29 14:05:26,13999.00,Net Banking,Lucknow,Processing
+1261,61,2024-01-30 12:30:15,999.00,UPI,Mumbai,Delivered
+1262,62,2024-01-31 16:55:40,1299.00,Card,Delhi,Shipped
+1263,63,2024-02-01 19:20:23,399.00,Net Banking,Bangalore,Processing
+1264,64,2024-02-02 14:45:38,1099.00,UPI,Hyderabad,Delivered
