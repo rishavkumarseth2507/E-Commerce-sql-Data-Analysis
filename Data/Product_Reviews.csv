@@ -1,0 +1,201 @@
+Review_ID,Product_ID,Customer_ID,Rating,Review_Text,Review_Date
+1,101,1,5,"Excellent phone with great camera quality. Battery lasts all day",2023-05-20
+2,102,2,4,"Good picture quality but sound could be better. Delivery was fast",2023-05-21
+3,103,3,5,"Perfect rice cooker for small families. Cooks evenly every time",2023-05-22
+4,104,4,3,"Fabric is good but size runs small. Had to exchange for larger size",2023-05-23
+5,107,5,4,"Great sound quality but battery could last longer. Comfortable fit",2023-05-24
+6,108,6,5,"Very comfortable for running. True to size with good cushioning",2023-05-25
+7,106,7,4,"Heats quickly but buttons are sensitive. Good for Indian cooking",2023-05-26
+8,109,8,5,"Leak-proof and durable. Keeps water cold for 24 hours",2023-05-27
+9,110,9,4,"Good formal shirt for office wear. Fabric doesn't wrinkle easily",2023-05-28
+10,105,10,3,"Color is nice but stays only 5-6 hours. Needs frequent reapplication",2023-05-29
+11,111,11,5,"Great value for money smartphone. Camera exceeds expectations",2023-05-30
+12,112,12,4,"Cleans clothes well but noisy during spin cycle. Saves water",2023-05-31
+13,113,13,5,"Classic jeans that fit perfectly. Doesn't fade after washes",2023-06-01
+14,114,14,3,"Good coverage but oxidizes after few hours. Not suitable for oily skin",2023-06-02
+15,115,15,4,"Dries hair quickly but gets hot on highest setting",2023-06-03
+16,116,16,5,"Extremely comfortable for long walks. Worth the price",2023-06-04
+17,117,17,4,"Good quality cookware but handles get hot. Induction compatible",2023-06-05
+18,118,18,5,"Spacious backpack with comfortable straps. Perfect for college",2023-06-06
+19,119,19,4,"Leaves hair soft but could last longer between washes",2023-06-07
+20,120,20,3,"Good performance but overheats during heavy usage",2023-06-08
+21,121,21,5,"Excellent display and battery life. Perfect for gaming",2023-06-09
+22,122,22,4,"Stunning 4K picture quality but smart features are limited",2023-06-10
+23,123,23,5,"Boils water quickly. Sturdy stainless steel construction",2023-06-11
+24,124,24,4,"Comfortable formal trousers. Doesn't require ironing",2023-06-12
+25,125,25,3,"Kajal smudges after few hours. Not completely waterproof",2023-06-13
+26,126,26,5,"Powerful mixer grinder. Handles all Indian spices well",2023-06-14
+27,127,27,4,"Good bass but sound cuts out occasionally",2023-06-15
+28,128,28,5,"Best running shoes I've owned. Great arch support",2023-06-16
+29,129,29,4,"Good lunch box set but lid is hard to open sometimes",2023-06-17
+30,130,30,5,"Perfect fit and very comfortable for office wear",2023-06-18
+31,131,31,4,"Great features but phone feels heavy in hand",2023-06-19
+32,132,32,5,"Amazing sound quality. Transforms movie experience",2023-06-20
+33,133,33,4,"Powerful mixer but jars could be more durable",2023-06-21
+34,134,34,5,"Soft cotton t-shirt that doesn't shrink after wash",2023-06-22
+35,135,35,3,"Lipstick is drying. Color doesn't match online image",2023-06-23
+36,136,36,5,"Silent operation with good airflow. Energy efficient",2023-06-24
+37,137,37,4,"Loud and clear sound. Battery lasts as promised",2023-06-25
+38,138,38,5,"Comfortable walking shoes. Great for elderly parents",2023-06-26
+39,139,39,4,"Good water bottle but cap is hard to open",2023-06-27
+40,140,40,5,"Premium quality shirt. Worth the extra money",2023-06-28
+41,141,41,4,"Excellent camera phone but software needs optimization",2023-06-29
+42,142,42,5,"Heats food evenly. Compact size fits small kitchens",2023-06-30
+43,143,43,4,"Durable backpack but zippers could be better",2023-07-01
+44,144,44,5,"Effective face wash for oily skin. Doesn't dry out",2023-07-02
+45,145,45,4,"Keeps water hot for 12+ hours. Minor leakage issue",2023-07-03
+46,146,46,3,"Jeans fit well but color faded after first wash",2023-07-04
+47,147,47,5,"Accurate fitness tracking. Comfortable to wear all day",2023-07-05
+48,148,48,4,"Good table fan but wobbles at highest speed",2023-07-06
+49,149,49,5,"Stylish sunglasses with perfect UV protection",2023-07-07
+50,150,50,4,"Good toothpaste but taste could be better",2023-07-08
+51,151,51,5,"Smooth performance for daily tasks. Great budget phone",2023-07-09
+52,152,52,4,"Cleans well but takes longer cycles than expected",2023-07-10
+53,153,53,5,"Classic t-shirt that fits perfectly. Washes well",2023-07-11
+54,154,54,4,"Good mascara but difficult to remove completely",2023-07-12
+55,155,55,5,"Efficient gas stove. Auto ignition works perfectly",2023-07-13
+56,156,56,4,"Comfortable flip flops but sole wears out quickly",2023-07-14
+57,157,57,5,"Excellent noise cancellation. Perfect for travel",2023-07-15
+58,158,58,4,"Good water bottle but design could be better",2023-07-16
+59,159,59,5,"Premium formal trousers. Perfect for office wear",2023-07-17
+60,160,60,4,"Precise trimmer but battery could last longer",2023-07-18
+61,161,61,5,"Vibrant OLED display. Great multimedia experience",2023-07-19
+62,162,62,4,"Good refrigerator but makes occasional noise",2023-07-20
+63,163,63,5,"Breathable polo t-shirt. Perfect for Indian summers",2023-07-21
+64,164,64,4,"Good compact but breaks easily if dropped",2023-07-22
+65,165,65,5,"Durable pressure cooker. Cooks dal perfectly",2023-07-23
+66,166,66,4,"Comfortable cap but size runs small",2023-07-24
+67,167,67,5,"Excellent battery life. Clear call quality",2023-07-25
+68,168,68,4,"Practical containers but lids could be tighter",2023-07-26
+69,169,69,5,"Comfortable casual shirt. Washes well",2023-07-27
+70,170,70,4,"Effective wax strips but could include more strips",2023-07-28
+71,171,71,5,"Great budget 5G phone. No lag in performance",2023-07-29
+72,172,72,4,"Good cooling but water tank is small",2023-07-30
+73,173,73,5,"Soft cotton t-shirt that retains shape",2023-07-31
+74,174,74,4,"Moisturizing lip balm but SPF could be higher",2023-08-01
+75,175,75,5,"Even toasting every time. Easy to clean",2023-08-02
+76,176,76,4,"Comfortable socks but elastic wears out",2023-08-03
+77,177,77,5,"Clear sound with good noise cancellation",2023-08-04
+78,178,78,4,"Complete dinner set but some pieces chipped",2023-08-05
+79,179,79,5,"Premium polo shirt. Doesn't fade after washes",2023-08-06
+80,180,80,4,"Good body lotion but scent is strong",2023-08-07
+81,181,81,5,"Excellent battery life. Lasts 2 days easily",2023-08-08
+82,182,82,4,"Effective iron but steam function could be better",2023-08-09
+83,183,83,5,"Comfortable shirt that doesn't require ironing",2023-08-10
+84,184,84,4,"Controls frizz but makes hair greasy quickly",2023-08-11
+85,185,85,5,"Powerful hand blender. Great for Indian cooking",2023-08-12
+86,186,86,4,"Cushioned socks but stitching comes loose",2023-08-13
+87,187,87,5,"Excellent sound quality. Comfortable fit",2023-08-14
+88,188,88,4,"Good lunch box but compartments could be bigger",2023-08-15
+89,189,89,5,"Premium casual shirt. Perfect fit",2023-08-16
+90,190,90,4,"Effective face wash but dries out skin",2023-08-17
+91,191,91,5,"Great budget phone with decent camera",2023-08-18
+92,192,92,4,"Good mixer but jars are small for Indian cooking",2023-08-19
+93,193,93,5,"Classic polo t-shirt. Washes well",2023-08-20
+94,194,94,4,"Precise eyeliner but tip breaks easily",2023-08-21
+95,195,95,5,"Complete cookware set. Even heating",2023-08-22
+96,196,96,4,"Absorbent wristband but color fades",2023-08-23
+97,197,97,5,"Great bass and battery life. Value for money",2023-08-24
+98,198,98,4,"Good water jug but handle could be stronger",2023-08-25
+99,199,99,5,"Premium formal shirt. Perfect for interviews",2023-08-26
+100,200,100,4,"Gentle soap but doesn't lather well",2023-08-27
+101,101,21,4,"Good phone but software updates are slow",2023-08-28
+102,102,22,5,"Excellent smart TV with great app support",2023-08-29
+103,103,23,4,"Efficient rice cooker but non-stick coating wears",2023-08-30
+104,104,24,3,"T-shirt shrunk after first wash",2023-08-31
+105,105,25,5,"Long-lasting lipstick. Perfect shade",2023-09-01
+106,106,26,4,"Good induction cooktop but beeps are loud",2023-09-02
+107,107,27,5,"Best wireless earbuds under 3000",2023-09-03
+108,108,28,4,"Comfortable shoes but sole wears quickly",2023-09-04
+109,109,29,5,"Durable water bottle. Leak-proof design",2023-09-05
+110,110,30,4,"Good formal shirt but buttons are weak",2023-09-06
+111,111,31,5,"Excellent performance for price",2023-09-07
+112,112,32,4,"Cleans well but uses more water",2023-09-08
+113,113,33,5,"Perfect fit jeans. True to size",2023-09-09
+114,114,34,3,"Foundation oxidizes too quickly",2023-09-10
+115,115,35,5,"Powerful hair dryer. Quick drying",2023-09-11
+116,116,36,4,"Good running shoes but narrow fit",2023-09-12
+117,117,37,5,"Durable cookware. Even heat distribution",2023-09-13
+118,118,38,4,"Spacious backpack but straps could be padded",2023-09-14
+119,119,39,5,"Makes hair soft and shiny",2023-09-15
+120,120,40,4,"Good laptop but gets warm easily",2023-09-16
+121,121,41,5,"Excellent camera for price",2023-09-17
+122,122,42,4,"Great picture quality but OS is slow",2023-09-18
+123,123,43,5,"Fast boiling. Sturdy construction",2023-09-19
+124,124,44,4,"Comfortable trousers but color fades",2023-09-20
+125,125,45,5,"Perfect kajal. Doesn't smudge",2023-09-21
+126,126,46,4,"Powerful mixer but noisy operation",2023-09-22
+127,127,47,5,"Great sound quality. Comfortable",2023-09-23
+128,128,48,4,"Good running shoes but sizing is off",2023-09-24
+129,129,49,5,"Durable lunch box set",2023-09-25
+130,130,50,4,"Good shirt but wrinkles easily",2023-09-26
+131,131,51,5,"Smooth performance. Great display",2023-09-27
+132,132,52,4,"Excellent sound but wires are short",2023-09-28
+133,133,53,5,"Powerful mixer for Indian cooking",2023-09-29
+134,134,54,4,"Comfortable t-shirt but shrinks slightly",2023-09-30
+135,135,55,5,"Long-lasting lipstick. Perfect matte finish",2023-10-01
+136,136,56,4,"Good fan but speed control could be better",2023-10-02
+137,137,57,5,"Excellent portable speaker",2023-10-03
+138,138,58,4,"Comfortable shoes but not for running",2023-10-04
+139,139,59,5,"Durable water bottle. Keeps temp well",2023-10-05
+140,140,60,4,"Good shirt but stitching could be better",2023-10-06
+141,141,61,5,"Excellent camera phone",2023-10-07
+142,142,62,4,"Good microwave but turntable is small",2023-10-08
+143,143,63,5,"Durable backpack. Lots of pockets",2023-10-09
+144,144,64,4,"Effective face wash but strong fragrance",2023-10-10
+145,145,65,5,"Keeps water hot/cold for hours",2023-10-11
+146,146,66,4,"Good jeans but waist stretches out",2023-10-12
+147,147,67,5,"Accurate fitness tracker",2023-10-13
+148,148,68,4,"Good fan but wobbles at high speed",2023-10-14
+149,149,69,5,"Stylish sunglasses. Good UV protection",2023-10-15
+150,150,70,4,"Good toothpaste but taste is strong",2023-10-16
+151,151,71,5,"Great budget 5G phone",2023-10-17
+152,152,72,4,"Cleans well but cycles are long",2023-10-18
+153,153,73,5,"Comfortable t-shirt. Washes well",2023-10-19
+154,154,74,4,"Good mascara but clumps easily",2023-10-20
+155,155,75,5,"Efficient gas stove. Easy to clean",2023-10-21
+156,156,76,4,"Comfortable flip flops but not durable",2023-10-22
+157,157,77,5,"Excellent noise cancellation",2023-10-23
+158,158,78,4,"Good water bottle but leaks slightly",2023-10-24
+159,159,79,5,"Premium formal trousers",2023-10-25
+160,160,80,4,"Precise trimmer but battery life average",2023-10-26
+161,161,81,5,"Vibrant OLED display",2023-10-27
+162,162,82,4,"Good fridge but ice maker is noisy",2023-10-28
+163,163,83,5,"Breathable polo shirt",2023-10-29
+164,164,84,4,"Good compact but breaks easily",2023-10-30
+165,165,85,5,"Durable pressure cooker",2023-10-31
+166,166,86,4,"Comfortable cap but fades quickly",2023-11-01
+167,167,87,5,"Excellent battery life",2023-11-02
+168,168,88,4,"Practical containers but lids weak",2023-11-03
+169,169,89,5,"Comfortable casual shirt",2023-11-04
+170,170,90,4,"Effective wax strips",2023-11-05
+171,171,91,5,"Great budget 5G performance",2023-11-06
+172,172,92,4,"Good cooler but tank small",2023-11-07
+173,173,93,5,"Soft cotton t-shirt",2023-11-08
+174,174,94,4,"Moisturizing lip balm",2023-11-09
+175,175,95,5,"Even toasting every time",2023-11-10
+176,176,96,4,"Comfortable socks",2023-11-11
+177,177,97,5,"Clear sound quality",2023-11-12
+178,178,98,4,"Good dinner set",2023-11-13
+179,179,99,5,"Premium polo shirt",2023-11-14
+180,180,100,4,"Good body lotion",2023-11-15
+181,101,11,5,"Excellent camera quality",2023-11-16
+182,102,12,4,"Good TV but sound average",2023-11-17
+183,103,13,5,"Perfect rice cooker",2023-11-18
+184,104,14,3,"Size runs small",2023-11-19
+185,105,15,4,"Good lipstick but drying",2023-11-20
+186,106,16,5,"Efficient induction cooktop",2023-11-21
+187,107,17,4,"Good earbuds",2023-11-22
+188,108,18,5,"Comfortable shoes",2023-11-23
+189,109,19,4,"Good water bottle",2023-11-24
+190,110,20,5,"Premium formal shirt",2023-11-25
+191,111,21,4,"Good budget phone",2023-11-26
+192,112,22,5,"Efficient washing machine",2023-11-27
+193,113,23,4,"Good jeans",2023-11-28
+194,114,24,3,"Foundation oxidizes",2023-11-29
+195,115,25,5,"Powerful hair dryer",2023-11-30
+196,116,26,4,"Comfortable running shoes",2023-12-01
+197,117,27,5,"Durable cookware",2023-12-02
+198,118,28,4,"Good backpack",2023-12-03
+199,119,29,5,"Effective shampoo",2023-12-04
+200,120,30,4,"Good laptop",2023-12-05
