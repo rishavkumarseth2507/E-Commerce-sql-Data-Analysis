@@ -12,7 +12,11 @@ The project is organized into:
 
 ---
 
+
+
 ## 📂 Folder Structure
+
+```
 E-Commerce-sql-Data-Analysis/
 │
 
@@ -20,19 +24,23 @@ E-Commerce-sql-Data-Analysis/
 
 ├── Queries/ # All SQL query files
 
-│ ├── Q1.sql
+│   ├── Q1.sql
 
-│ ├── Q2.sql
+│   ├── Q2.sql
 
-│ ├── ...
+│   ├── ...
 
-│ └── Q30.sql
+│   └── Q30.sql
+
+│   └── Questions.md
+
+├── schema.sql
 
 ├── EER Diagram.png # Database schema diagram
 
 └── README.md # Project documentation
 
-
+```
 ---
 
 ## 📝 SQL Questions List
@@ -84,6 +92,22 @@ E-Commerce-sql-Data-Analysis/
 3. Run them in order to see the results.  
 4. Compare outputs with the given business questions.  
 
+---
+
+## ⚙️ Database Setup
+
+To set up the database, use the [`schema.sql`](./schema.sql) file provided in this repository.  
+It includes:
+- Dropping existing tables  
+- Creating all required tables (`Customers`, `Products`, `Orders`, `Order_Items`, `Product_Reviews`)  
+- Loading CSV data into tables  
+- Sample test queries for validation  
+
+Run the script in MySQL Workbench or CLI:
+
+```sql
+SOURCE schema.sql;
+```
 ---
 
 ## 📊 Skills Demonstrated
