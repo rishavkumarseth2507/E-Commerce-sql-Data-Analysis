@@ -100,5 +100,6 @@ E-Commerce-sql-Data-Analysis/
 **Rishav Kumar**  
 📧 Email: [rishavkumarseth2507@gmail.com]  
 🔗 GitHub: [rishavkumarseth2507](https://github.com/rishavkumarseth2507)  
+ Linkedin: [rishav-kumar-seth](https://www.linkedin.com/in/rishav-kumar-seth)
 
 ---
