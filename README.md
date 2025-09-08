@@ -15,13 +15,21 @@ The project is organized into:
 ## 📂 Folder Structure
 E-Commerce-sql-Data-Analysis/
 │
+
 ├── Data/ # Dataset files (CSV / SQL dump)
+
 ├── Queries/ # All SQL query files
+
 │ ├── Q1.sql
+
 │ ├── Q2.sql
+
 │ ├── ...
+
 │ └── Q30.sql
+
 ├── EER Diagram.png # Database schema diagram
+
 └── README.md # Project documentation
 
 
