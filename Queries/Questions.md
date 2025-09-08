@@ -25,7 +25,7 @@ Each question corresponds to a `.sql` file in this folder.
 
 ## 🔹 Advanced Level (Q11 – Q25)
 - **Q11.sql** → Find the top 10 customers who spent the most in total.  
-- **Q12.sql** → Find the average rating for each product with at least 5 reviews.  
+- **Q12.sql** → Find the average rating for each product with at least 2 reviews.  
 - **Q13.sql** → Identify products that have never been ordered.  
 - **Q14.sql** → Get monthly revenue for the current year.  
 - **Q15.sql** → Find the most frequently ordered product.  
